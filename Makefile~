@@ -1,0 +1,6 @@
+
+upload:
+	git pull
+	git add *md
+	git commit -m "update"
+	git push origin master
