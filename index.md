@@ -41,7 +41,7 @@ cultivating appreciation for research done across IACR communities; facilitating
 
 * Contributor to TLS 1.3 standard and co-author on IETF on BLS signatures
 
-* Founding co-organizer of New York Crypto Day and Paris Crypto Day. Invited speakers include: Karthik Bhargavan, Anne Canteaut, Sarah Meiklejohn, Ingrid Verbauwhede, Kenny Paterson, Pascal Pallier.
+* Founding co-organizer of New York Crypto Day and Paris Crypto Day. Invited speakers include: Karthik Bhargavan, Anne Canteaut, Sarah Meiklejohn, Ingrid Verbauwhede, Kenny Paterson, Pascal Paillier.
 
 * Collaborated with PhD students across multiple institutions and continents: ENS, IMDEA, RHUL, Leuven, RUB; Columbia, MIT, U Chicago, Northeastern, BU, NYU; Weizmann, BGU; SNU, NTU.
 
