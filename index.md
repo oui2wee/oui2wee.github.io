@@ -37,12 +37,12 @@ cultivating appreciation for research done across IACR communities; facilitating
 
 ### Background
 
-* Lived and studied/worked in Boston, Beijing, Berkeley, Bochum, etc.
-
-* Contributor to TLS 1.3 standard and co-author on IETF on BLS signatures
+* Contributor to TLS 1.3 standard and co-author on IETF draft on BLS signatures
 
 * Founding co-organizer of New York Crypto Day and Paris Crypto Day. Invited speakers include: Karthik Bhargavan, Anne Canteaut, Sarah Meiklejohn, Ingrid Verbauwhede, Kenny Paterson, Pascal Paillier.
 
 * Collaborated with PhD students across multiple institutions and continents: ENS, IMDEA, RHUL, Leuven, RUB; Columbia, MIT, U Chicago, Northeastern, BU, NYU; Weizmann, BGU; SNU, NTU.
 
 * Former office-mate to the incumbent IACR president
+
+* Lived and studied/worked in Boston, Beijing, Berkeley, Bochum, etc.
