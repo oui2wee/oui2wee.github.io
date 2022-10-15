@@ -5,7 +5,7 @@
 layout: default
 ---
 
-### IACR Statement.
+### #JeSuisWee
 
 I hope to give back to the community as an IACR director, with the
 overaching goal of improving our professional and personal well-being
@@ -23,13 +23,14 @@ give back to the community as an IACR director, with the overaching
 goal of improving our professional and personal well-being ---especially that
 of PhD students and junior reseachers--- through
 
-* Better and healthier conference reviewing:
-guides for first-time PC chairs and PC members; pathway to PCs for junior researchers; incentivizing good reviews, active PC/reviewer discussion; engaging senior researchers; looking at and reviewing recent initiatives like discussion leads and area chairs, as well as investigating new ones like 2-tier PCs; top 10% award for flagship conferences.
+* *Better and healthier conference reviewing*:
+guidance for first-time PC chairs and PC members; pathway to PCs for junior researchers; incentivizing good reviews, active PC/reviewer discussion; engaging senior researchers; looking at and reviewing recent initiatives like discussion leads and area chairs, as well as investigating new ones like 2-tier PCs; top 10% award for flagship conferences.
 
-* Stronger
-bi-directional engagement with industry:
-career opportunities for PhD students and junior researchers; making sure our research is informed by real-world and industry needs and vice versa to ensure continuing impact; ensuring IACR community is perceived as an expert opinion on all things cryptography
+* *Stronger
+bi-directional engagement with industry*:
+making sure our research is informed by real-world and industry needs and vice versa to ensure continuing impact; ensuring IACR community is perceived as an expert opinion on all things cryptography;
+career opportunities for PhD students and junior researchers;
 
-* Building a more
-cohesive community: 
+* *Building a more
+cohesive community*: 
 cultivating appreciation for research done across IACR communities; facilitating student internships, visits, exchanges and conference social activities across institutions and continents.
